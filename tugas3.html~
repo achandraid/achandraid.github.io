@@ -1,0 +1,27 @@
+<html>
+<head>
+<title> Mencoba DEFINITION LIST</title>
+</head>
+
+<body>
+<h2>Planet dalam Sistem Tata Surya :</h2>
+<hr>
+<dl>
+<ol type=1>
+<dt><li>Merkurius
+ <ul type="square">
+   <li>Dewa perdagangan dan perjalanan
+   <li>Definisi
+   </ul>
+   Mercury
+<dd>Planet paling kecil dan paling dekat dengan matahari, berevolusi dengan matahari selama 88.8 hari. Jarak dari matahari adalah 58.3 juta kilometer dan mempunyai ukuran radius kira-kira 2,414 kilometer.
+
+<dt><li>Venus
+  <ul type="square">
+    <li>Dewi Cinta dan kecantikan
+    <li>Definisi
+  </ul>
+<dd>Planet kedua dari matahari, mempunyai ukuran radius 6,052 kilometer berat 0.815 dari bumi, berevolusi dengan matahari selama 224,7 hari dan berjarak kira-kira 100.1 juta kilometer.
+<dl>
+</body>
+</html>

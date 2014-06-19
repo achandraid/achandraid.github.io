@@ -1,0 +1,76 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+  <title>ACM</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
+
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <!-- class="logo_colour", allows you to change the colour of the text -->
+          <h1><a href="index.html">A<span class="logo_colour">CM</span></a></h1>
+          <h2>Menuntut ilmu , menambah manfaat diri</h2>
+        </div>
+      </div>
+      <div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="selected"><a href="index.html">Depan</a></li>
+          <li><a href="examples.html">Daftar Isi</a></li>
+          <li><a href="page.html">SIPKD</a></li>
+          <li><a href="another_page.html">Tugas 3</a></li>
+          <li><a href="tugas/tugas_jadwal_1.html">Latihan 1</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+        <h1>Selamat datang!</h1>
+        <h4>Ini Adalah beberapa tugas saya</h4>
+        <h5></h5>
+        <p>Harap maklum apabila ada kekurangan<br /></p>
+        <h1>Tugas Lainnya</h1>
+        <ul>
+          <li><a href="tugas/lat2.html">Tugas Footer</a></li>
+          <li><a href="#">link 2</a></li>
+          <li><a href="#">link 3</a></li>
+          <li><a href="#">link 4</a></li>
+        </ul>
+        <h1>Search</h1>
+        <form method="post" action="#" id="search_form">
+          <p>
+            <input class="search" type="text" name="search_field" value="Enter keywords....." />
+            <input name="search" type="image" style="border: 0; margin: 0 0 -9px 5px;" src="style/search.png" alt="Search" title="Search" />
+          </p>
+        </form>
+      </div>
+      <div id="content">
+		<h1>Kumpulan Beberapa Project</h1>
+	     <p>Berikut adalah daftar link dari project yang saya buat :</p>
+	        <ul>
+	     <li><a href="dftr_1.html">Daftar 1</a></li>
+	     <li><a href="dftr_2.html">Daftar 2</a></li>
+		 <li><a href="dftr_3.html">Daftar 3</a></li>
+		 <li><a href="dftr_4.html">Daftar 4</a></li>
+		 <li><a href="dftr_5.html">Daftar 5</a></li>
+		 <li><a href="examples.html">Daftar Isi</a></li>
+		 <li><a href="page.html">SIPKD</a></li>
+		 <li><a href="another_page.html">Tugas 3</a></li>
+		 </ul> 
+      </div>  
+    </div>
+
+    <div id="footer">
+      <p><a href="index.html">Home</a> | <a href="examples.html">Examples</a> | <a href="page.html">A Page</a> | <a href="another_page.html">Another Page</a> | <a href="contact.html">Contact Us</a></p>
+      <p>Copyright &copy; simplestyle_5 | <a href="http://validator.w3.org/check?uri=referer">HTML5</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.html5webtemplates.co.uk">design from HTML5webtemplates.co.uk</a></p>
+    </div>
+  </div>
+</body>
+</html>
